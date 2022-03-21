@@ -1,8 +1,8 @@
 
       // connect to Moralis server
 
-      const serverUrl = "https://zzhjcn4ygdfm.usemoralis.com:2053/server";
-      const appId = "WuvN4cMUDRlGEvoVDFE0sU812V4wf0nNmne0GTC5";
+      const serverUrl = "";
+      const appId = "";
       Moralis.start({ serverUrl, appId });
 
       
